@@ -18,5 +18,5 @@
 </div>
 
 ###
-![HesapMakinesi](https://github.com/omerfaruksen/Calculator/assets/109878350/0577d4c2-cc91-48f4-ad37-3a1ca982b904)
 
+![HesapMakinesi](https://github.com/omerfaruksen/Calculator/assets/109878350/9bdf29b2-d3ed-42e5-afbc-1938891ddf16)
